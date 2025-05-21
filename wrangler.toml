@@ -1,5 +1,8 @@
 name = "my-static-site"
 compatibility_date = "2025-05-21"
 
+[build]
+command = ""
+
 [site]
 bucket = "./dist"
